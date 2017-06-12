@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "DESKTOP-BOFAQDK",
+    "threads" : [ {
+      "title" : "5380@DESKTOP-BOFAQDK.main(1)",
+      "testCases" : [ {
+        "uid" : "a608a3629251c387",
+        "name" : "compare",
+        "title" : "Compare",
+        "time" : {
+          "start" : 1497296191845,
+          "stop" : 1497297447600,
+          "duration" : 1255755
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

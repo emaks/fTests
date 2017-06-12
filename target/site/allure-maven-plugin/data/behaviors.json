@@ -1,0 +1,37 @@
+{
+  "features" : [ {
+    "title" : "AddBlock ON/OFF",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "20dcca3cb96a7b3c",
+      "title" : "Youtube videos",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "a608a3629251c387",
+        "name" : "compare",
+        "title" : "Compare",
+        "time" : {
+          "start" : 1497296191845,
+          "stop" : 1497297447600,
+          "duration" : 1255755
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

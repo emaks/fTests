@@ -1,0 +1,2 @@
+browserName=chrome
+chromeOptions={"args":[],"extensions":[],"prefs":{"intl.accept_languages":"en"}}

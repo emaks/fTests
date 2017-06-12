@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1497296191845,
+    "stop" : 1497297447600,
+    "duration" : 1255755
+  },
+  "testSuites" : [ {
+    "uid" : "fbea418e78f66aa2",
+    "name" : "com.test.qa.compare.CompareTest",
+    "title" : "Compare test",
+    "time" : {
+      "start" : 1497296191845,
+      "stop" : 1497297447600,
+      "duration" : 1255755
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "a608a3629251c387",
+      "name" : "compare",
+      "title" : "Compare",
+      "time" : {
+        "start" : 1497296191845,
+        "stop" : 1497297447600,
+        "duration" : 1255755
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

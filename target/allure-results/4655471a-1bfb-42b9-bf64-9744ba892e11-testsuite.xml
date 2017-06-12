@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1497296191829" stop="1497297447605" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>com.test.qa.compare.CompareTest</name>
+    <test-cases>
+        <test-case start="1497296191845" stop="1497297447600" status="passed">
+            <name>compare</name>
+            <steps>
+                <step start="1497296199244" stop="1497296201214" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296201216" stop="1497296209017" status="passed">
+                    <name>findVideos[2017 official trailers]</name>
+                    <title>Find videos by 2017 official trailers phrase</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296209018" stop="1497296209144" status="passed">
+                    <name>expandFilter</name>
+                    <title>Expand search filter</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296209145" stop="1497296209241" status="passed">
+                    <name>sortByRating</name>
+                    <title>Click on Rating link</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296216548" stop="1497296217311" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296217314" stop="1497296277348" status="passed">
+                    <name>makeRecord[clip_#1-addBlock_off.wav]</name>
+                    <title>Make record clip_#1-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296277350" stop="1497296277950" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296277951" stop="1497296337972" status="passed">
+                    <name>makeRecord[clip_#2-addBlock_off.wav]</name>
+                    <title>Make record clip_#2-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296337973" stop="1497296338719" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296338720" stop="1497296398740" status="passed">
+                    <name>makeRecord[clip_#3-addBlock_off.wav]</name>
+                    <title>Make record clip_#3-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296398742" stop="1497296399295" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296399296" stop="1497296459314" status="passed">
+                    <name>makeRecord[clip_#4-addBlock_off.wav]</name>
+                    <title>Make record clip_#4-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296459315" stop="1497296459836" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296459836" stop="1497296519852" status="passed">
+                    <name>makeRecord[clip_#5-addBlock_off.wav]</name>
+                    <title>Make record clip_#5-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296519852" stop="1497296520551" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296520552" stop="1497296580562" status="passed">
+                    <name>makeRecord[clip_#6-addBlock_off.wav]</name>
+                    <title>Make record clip_#6-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296580563" stop="1497296581296" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296581297" stop="1497296641319" status="passed">
+                    <name>makeRecord[clip_#7-addBlock_off.wav]</name>
+                    <title>Make record clip_#7-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296641320" stop="1497296641894" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296641894" stop="1497296701905" status="passed">
+                    <name>makeRecord[clip_#8-addBlock_off.wav]</name>
+                    <title>Make record clip_#8-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296701906" stop="1497296702501" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296702501" stop="1497296762511" status="passed">
+                    <name>makeRecord[clip_#9-addBlock_off.wav]</name>
+                    <title>Make record clip_#9-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296762512" stop="1497296763232" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296763233" stop="1497296823255" status="passed">
+                    <name>makeRecord[clip_#10-addBlock_off.wav]</name>
+                    <title>Make record clip_#10-addBlock_off.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296831034" stop="1497296832564" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296832565" stop="1497296892580" status="passed">
+                    <name>makeRecord[clip_#1-addBlock_on.wav]</name>
+                    <title>Make record clip_#1-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296892581" stop="1497296893531" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296893532" stop="1497296953565" status="passed">
+                    <name>makeRecord[clip_#2-addBlock_on.wav]</name>
+                    <title>Make record clip_#2-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296953567" stop="1497296954369" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497296954369" stop="1497297014384" status="passed">
+                    <name>makeRecord[clip_#3-addBlock_on.wav]</name>
+                    <title>Make record clip_#3-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297014385" stop="1497297015135" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297015136" stop="1497297075161" status="passed">
+                    <name>makeRecord[clip_#4-addBlock_on.wav]</name>
+                    <title>Make record clip_#4-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297075162" stop="1497297075941" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297075941" stop="1497297135952" status="passed">
+                    <name>makeRecord[clip_#5-addBlock_on.wav]</name>
+                    <title>Make record clip_#5-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297135953" stop="1497297136795" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297136796" stop="1497297196814" status="passed">
+                    <name>makeRecord[clip_#6-addBlock_on.wav]</name>
+                    <title>Make record clip_#6-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297196814" stop="1497297197532" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297197533" stop="1497297257551" status="passed">
+                    <name>makeRecord[clip_#7-addBlock_on.wav]</name>
+                    <title>Make record clip_#7-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297257551" stop="1497297258370" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297258370" stop="1497297318383" status="passed">
+                    <name>makeRecord[clip_#8-addBlock_on.wav]</name>
+                    <title>Make record clip_#8-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297318383" stop="1497297319104" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297319105" stop="1497297379129" status="passed">
+                    <name>makeRecord[clip_#9-addBlock_on.wav]</name>
+                    <title>Make record clip_#9-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297379130" stop="1497297379944" status="passed">
+                    <name>open</name>
+                    <title>Open page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297379945" stop="1497297439959" status="passed">
+                    <name>makeRecord[clip_#10-addBlock_on.wav]</name>
+                    <title>Make record clip_#10-addBlock_on.wav</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1497297439962" stop="1497297443606" status="passed">
+                    <name>compareAudioFiles[[D:\disk\projects\fTests\target\clip_#1-addBlock_off.wav, D:\disk\projects\fTests\target\clip_#2-addBl...]</name>
+                    <title>Compare audio files</title>
+                    <attachments>
+                        <attachment title="CompareResults" source="319ae020-2ae0-4af8-a158-19ee6f548ff1-attachment.txt" type="text/plain"/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-BOFAQDK"/>
+                <label name="thread" value="5380@DESKTOP-BOFAQDK.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Youtube videos"/>
+        <label name="feature" value="AddBlock ON/OFF"/>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
