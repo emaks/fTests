@@ -11,7 +11,7 @@ Configure Mac OS to capture audio: TODO
 
 `1. Java 8, maven have to be installed`
 
-`2. Run command "mvn install:install-file -Dfile="src/main/resources/musicg-1.4.2.0.jar" in project directory`
+`2. Run command "mvn install:install-file -Dfile=src/main/resources/musicg-1.4.2.0.jar -DgroupId=com.musicg -DartifactId=musicg -Dversion=1.4.2.0 -Dpackaging=jar"" in project directory`
 
 `3. Run command "mvn clean test site -P browser_chrome,grid_no" in project directory`
 

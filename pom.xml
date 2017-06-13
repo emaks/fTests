@@ -95,7 +95,7 @@
                     <systemPropertyVariables>
                         <application.properties>application.properties</application.properties>
                         <buildDirectory>${project.build.directory}</buildDirectory>
-                        <resourceDir>${project.basedir}\src\main\resources\</resourceDir>
+                        <resourceDir>${project.basedir}/src/main/resources/</resourceDir>
                     </systemPropertyVariables>
                     <testFailureIgnore>false</testFailureIgnore>
                     <argLine>

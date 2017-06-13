@@ -33,6 +33,7 @@ public class PropertyLoader {
                     ChromeOptions options = new ChromeOptions();
                     value = System.getProperty("resourceDir") + value.substring(5);
                     options.addExtensions(new File(value));
+                    options.addArguments("--no-startup-window");
                     capabilities.setCapability(name, options);
                 } else if (value.startsWith("{")) {
                     capabilities.setCapability(name, Utils.parseJson(value));

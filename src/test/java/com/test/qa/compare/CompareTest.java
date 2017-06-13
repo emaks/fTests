@@ -35,7 +35,6 @@ public class CompareTest extends TestRunner {
             addBlockOn.add(Utils.makeRecord(String.format(nameFormat, index[0]++, "off")));
         });
 
-        System.setProperty("capabilities", "addblock.chrome.capabilities");
         index[0] = 1;
         WebDriver newDriver = DriverFactory.getDriver(
             PropertyLoader.loadCapabilitiesFromFile("addblock.chrome.capabilities")
